@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to Dmitriy Malenik GitHub profile!
+
+*Here you can find projects in front-end development which he is currently working on.* 
 
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
