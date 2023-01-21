@@ -2,7 +2,7 @@
 
 *Here you can find projects in front-end development which I am currently working on.*
 
-- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) - Telegram username: @dimitr_2193 - [E-mail](dmalenik@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) - [dmalenik@gmail.com](dmalenik@gmail.com)
 
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
