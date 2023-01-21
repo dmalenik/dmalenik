@@ -2,6 +2,8 @@
 
 *Here you can find projects in front-end development which I am currently working on.*
 
+## Contact
+
 - [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) - [dmalenik@gmail.com](dmalenik@gmail.com)
 
 <!--
