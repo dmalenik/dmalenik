@@ -32,9 +32,13 @@
 
 [Emmet](https://github.com/dmalenik/dmalenik/issues/13) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/14) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/16)
 
+### Automation
+
+[n8n](https://github.com/dmalenik/dmalenik/issues/25)
+
 ### etc
 
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [nvm](https://github.com/dmalenik/dmalenik/issues/18) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Babel](https://github.com/dmalenik/dmalenik/issues/20) [Web APIs](https://github.com/dmalenik/dmalenik/issues/21) [Browser Developer Tools](https://github.com/dmalenik/dmalenik/issues/22) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/23) [Windows CLI](https://github.com/dmalenik/dmalenik/issues/24) [n8n](https://github.com/dmalenik/dmalenik/issues/25)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [nvm](https://github.com/dmalenik/dmalenik/issues/18) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Babel](https://github.com/dmalenik/dmalenik/issues/20) [Web APIs](https://github.com/dmalenik/dmalenik/issues/21) [Browser Developer Tools](https://github.com/dmalenik/dmalenik/issues/22) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/23) [Windows CLI](https://github.com/dmalenik/dmalenik/issues/24)
 
 ## Statistics
 
