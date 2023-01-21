@@ -30,10 +30,7 @@
 
 ### Supersets and extensions
 
-- Emmet
-- SASS
-- ESLint
-- TypeScript
+[Emmet](https://github.com/dmalenik/dmalenik/issues/13) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/14) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/16)
 
 ### etc
 
