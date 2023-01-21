@@ -5,7 +5,7 @@
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/)
-- [dmalenik@gmail.com](dmalenik@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dmalenik@gmail.com)
 
 ## Technologies
 
