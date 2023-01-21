@@ -4,7 +4,7 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) 
+- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/)
 - [dmalenik@gmail.com](dmalenik@gmail.com)
 
 ## Technologies
@@ -13,6 +13,7 @@
 
 - Git
 - GitHub
+- VSCode
 
 ### Core
 
@@ -54,6 +55,9 @@
 - Windows CLI
 - n8n
 
+## Statistics
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dmalenik.dmalenik&left_color=green&right_color=red)
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
