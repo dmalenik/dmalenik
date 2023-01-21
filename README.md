@@ -22,12 +22,11 @@
 
 ### Testing
 
-- Jest
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/10)
 
 ### Technical documentation
 
-- Markdown
-- Mermaid
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/11) [Mermaid](https://github.com/dmalenik/dmalenik/issues/12)
 
 ### Supersets and extensions
 
