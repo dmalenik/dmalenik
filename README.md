@@ -38,7 +38,7 @@
 
 ### etc
 
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [nvm](https://github.com/dmalenik/dmalenik/issues/18) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Babel](https://github.com/dmalenik/dmalenik/issues/20) [Web APIs](https://github.com/dmalenik/dmalenik/issues/21) [Browser Developer Tools](https://github.com/dmalenik/dmalenik/issues/22) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/23) [Windows CLI](https://github.com/dmalenik/dmalenik/issues/24)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [nvm](https://github.com/dmalenik/dmalenik/issues/18) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/20) [Web APIs](https://github.com/dmalenik/dmalenik/issues/21) [Browser Developer Tools](https://github.com/dmalenik/dmalenik/issues/22) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/23) [Windows CLI](https://github.com/dmalenik/dmalenik/issues/24)
 
 ## Statistics
 
