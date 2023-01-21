@@ -4,7 +4,8 @@
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) - [dmalenik@gmail.com](dmalenik@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dmitriy-m-137a735b/) 
+- [dmalenik@gmail.com](dmalenik@gmail.com)
 
 ## Technologies
 
