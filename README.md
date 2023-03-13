@@ -48,7 +48,7 @@
 
 [Web APIs](https://github.com/dmalenik/dmalenik/issues/21)
 
-## Visitors
+## Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dmalenik.dmalenik&left_color=green&right_color=red)
 <!--
