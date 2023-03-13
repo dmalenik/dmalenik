@@ -48,10 +48,6 @@
 
 [Web APIs](https://github.com/dmalenik/dmalenik/issues/21)
 
-## Business Automation
-
-[Windows CLI](https://github.com/dmalenik/dmalenik/issues/24) [n8n](https://github.com/dmalenik/dmalenik/issues/25) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/23)
-
 ## Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dmalenik.dmalenik&left_color=green&right_color=red)
