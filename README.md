@@ -36,7 +36,7 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## etc
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/26) [LaTeX](https://github.com/dmalenik/dmalenik/issues/24) [n8n](https://github.com/dmalenik/dmalenik/issues/25)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/26) [LaTeX](https://github.com/dmalenik/dmalenik/issues/24) [n8n](https://github.com/dmalenik/dmalenik/issues/25) [Microsoft Office](https://github.com/dmalenik/dmalenik/issues/33)
 
 ## Stats
 
