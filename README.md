@@ -9,13 +9,13 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## DBs
 
-[![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
 ](https://github.com/dmalenik/dmalenik/issues/31) [![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ](https://github.com/dmalenik/dmalenik/issues/32)
 
 ## Technical Documentation
 
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/11) [![Static Badge](https://img.shields.io/badge/Mermaid-pink?style=for-the-badge)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/11) [![Mermaid](https://img.shields.io/badge/Mermaid-pink?style=for-the-badge)
 ](https://github.com/dmalenik/dmalenik/issues/12)
 
 ## Test-Driven Development
