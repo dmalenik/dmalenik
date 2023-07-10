@@ -53,7 +53,7 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## Stats
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=dmalenik)
 
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
