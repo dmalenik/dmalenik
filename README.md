@@ -10,7 +10,8 @@ _Here you can find projects in front-end development which I am currently workin
 ## DBs
 
 [![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
-](https://github.com/dmalenik/dmalenik/issues/31) [PostgreSQL](https://github.com/dmalenik/dmalenik/issues/32)
+](https://github.com/dmalenik/dmalenik/issues/31) [![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+](https://github.com/dmalenik/dmalenik/issues/32)
 
 ## Technical Documentation
 
