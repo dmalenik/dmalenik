@@ -24,7 +24,8 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## Progressive Web Apps
 
-[Web APIs](https://github.com/dmalenik/dmalenik/issues/21) [Chrome DevTools](https://github.com/dmalenik/dmalenik/issues/22) [Google Lighthouse](https://github.com/dmalenik/dmalenik/issues/13)
+[![Web APIs](https://img.shields.io/badge/Web_API-black?style=for-the-badge)
+](https://github.com/dmalenik/dmalenik/issues/21) [Chrome DevTools](https://github.com/dmalenik/dmalenik/issues/22) [Google Lighthouse](https://github.com/dmalenik/dmalenik/issues/13)
 
 ## Build Tools
 
