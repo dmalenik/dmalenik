@@ -32,11 +32,13 @@ _Here you can find projects in front-end development which I am currently workin
 ## Build Tools
 
 [![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-](https://github.com/dmalenik/dmalenik/issues/23) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Vite](https://github.com/dmalenik/dmalenik/issues/8) [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/20)
+](https://github.com/dmalenik/dmalenik/issues/23) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
+](https://github.com/dmalenik/dmalenik/issues/8) [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/20)
 
 ## Version Control Systems
 
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/4) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/5) [nvm](https://github.com/dmalenik/dmalenik/issues/18)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/4) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/5) [![NVM](https://img.shields.io/badge/NVM-darkgreen?style=for-the-badge)
+](https://github.com/dmalenik/dmalenik/issues/18)
 
 ## IDEs
 
