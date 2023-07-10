@@ -26,11 +26,13 @@ _Here you can find projects in front-end development which I am currently workin
 
 [![Web APIs](https://img.shields.io/badge/Web_API-black?style=for-the-badge)
 ](https://github.com/dmalenik/dmalenik/issues/21) [![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)
-](https://github.com/dmalenik/dmalenik/issues/22) [Google Lighthouse](https://github.com/dmalenik/dmalenik/issues/13)
+](https://github.com/dmalenik/dmalenik/issues/22) [![Google Lighthouse](https://img.shields.io/badge/Lighthouse-brown?style=for-the-badge&logo=lighthouse&logoColor=white)
+](https://github.com/dmalenik/dmalenik/issues/13)
 
 ## Build Tools
 
-[Prettier](https://github.com/dmalenik/dmalenik/issues/23) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Vite](https://github.com/dmalenik/dmalenik/issues/8) [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/20)
+[![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+](https://github.com/dmalenik/dmalenik/issues/23) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/15) [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/dmalenik/dmalenik/issues/17) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/19) [Vite](https://github.com/dmalenik/dmalenik/issues/8) [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://github.com/dmalenik/dmalenik/issues/20)
 
 ## Version Control Systems
 
