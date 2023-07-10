@@ -9,7 +9,7 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## DBs
 
-[![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=%234169E1)
 ](https://github.com/dmalenik/dmalenik/issues/31) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ](https://github.com/dmalenik/dmalenik/issues/32)
 
