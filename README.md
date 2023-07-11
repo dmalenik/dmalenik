@@ -55,10 +55,6 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## Stats
 
-<!-- [![Dmitriy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmalenik&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmalenik&layout=compact&theme=transparent)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.dmalenik.visitor-badge) -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dmalenik&theme=transparent" />
 </a>
@@ -67,6 +63,10 @@ _Here you can find projects in front-end development which I am currently workin
 </a>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.dmalenik.visitor-badge)
+
+<!-- [![Dmitriy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmalenik&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmalenik&layout=compact&theme=transparent)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.dmalenik.visitor-badge) -->
 
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
