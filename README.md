@@ -53,8 +53,7 @@ _Here you can find projects in front-end development which I am currently workin
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmalenik&layout=compact)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.dmalenik.visitor-badge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmalenik&layout=compact) ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=dmalenik.dmalenik.visitor-badge)
 
 <!--
 **dmalenik/dmalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
