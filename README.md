@@ -1,6 +1,6 @@
 # Welcome to Dmitriy Malenik's GitHub profile
 
-_Here you can find projects in front-end development which I am currently working on._
+_Here you may find my projects in web development._
 
 ## Technologies
 
